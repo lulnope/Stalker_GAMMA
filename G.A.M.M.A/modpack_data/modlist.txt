@@ -78,8 +78,10 @@
 -307- French Rework Improved Translation & Enhanced Style - Thundard
 -377- GAMMA Portugues Brasileiro Traducao - PedroAmaral89
 +Maybelline's Restore XCV phantoms
++Oleh's Fluid Weapon Draw and Reload
 +Oleh's Tasks Crash Fixes
 +Oleh's Package Loot Rework
++Jack Harris's Better Knife Skinning
 +Jack Harris's Anti Lag
 +Disable Bounty Squads by Jack Harris
 +Scrunkly's Collection of Mods
